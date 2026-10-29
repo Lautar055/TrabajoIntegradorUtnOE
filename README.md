@@ -8,7 +8,10 @@ Proyecto de la materia Organización Empresarial, Tecnicatura Universitaria en P
 ## Integrantes
 - Lautaro D'Andrea
 
-## Declaración de Uso de IA
+## Documentación
+- [Diagrama BPMN del proceso](BPMN/BPMN.png)
+- [Tablero del proyecto (GitHub Projects)](https://github.com/users/Lautar055/projects/1/views/1?layout_template=board)
+
 ## Declaración de Uso de IA
 
 ### Herramienta utilizada
